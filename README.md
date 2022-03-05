@@ -5,3 +5,5 @@ In layman’s language, it means assigning labels to pixels .
 
 
 Here, image file has been converted into HSV format to  avoid shadow effect. Then contours are used to get boundary points of diamond.
+
+Main Advantage: It works for all types of diamond shape and at different angles.
